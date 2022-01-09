@@ -15,7 +15,7 @@ import javax.inject.Inject
 
 
 @ExperimentalPagingApi
-class UnsplashRemoteMediator  @Inject constructor(private val unsplashApi: UnSplashApi, private val unsplashDatabase: UnsplashDatabase) : RemoteMediator<Int, UnsplashImage>(){
+class UnsplashRemoteMediator (private val unsplashApi: UnSplashApi, private val unsplashDatabase: UnsplashDatabase) : RemoteMediator<Int, UnsplashImage>(){
 
     private val unsplashImageDao = unsplashDatabase.unsplashImageDao()
     private val unsplashRemoteKeysDao = unsplashDatabase.unsplashRemoteKeysDao()
