@@ -27,8 +27,7 @@ MVVM
 
 
 
-![Screenshot_20220109-142939_Paging3WithRoomDbAndRemoteMediator](https://user-images.githubusercontent.com/44091450/1
-![Screenshot_20220109-142746_Paging3WithRoomDbAndRemoteMediator](https://user-images.githubusercontent.com/44091450/
+
 ![Screenshot_20220109-142912_Paging3WithRoomDbAndRemoteMediator](https://user-images.githubusercontent.com/44091450/148684764-b0d6e8a1-5519-440e-ab2c-ea841ada72d0.jpg)
 148684761-fc025bb8-225b-4bdf-a3da-0b8706b3a72b.jpg)
 48684740-752b081d-d161-4099-8636-09cc19cd0f93.jpg)
